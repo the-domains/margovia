@@ -1,0 +1,28 @@
+name: Margovia
+favicon: null
+layout_spectrum: 0.8296110371593386
+typography_spectrum: 0.9126416968647391
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9142126112710685
+  lightness: 0.27398903062567115
+  saturation: 0.23381170979700983
+  rhythmicContrast: 0.6773431664332747
+purpose: []
