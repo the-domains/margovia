@@ -5,10 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'MARGOVIA unterscheidet sich deutlich von anderen Marketing- und E-Commerce-Beratungen. Ein besonders wichtiger Aspekt ist für uns, dass wir unsere Kunden nicht allein vor Bergen von Aufgaben stehen lassen, die sie allein (noch) nicht erklimmen können. Eine langfristige Partnerschaft ist uns wichtig, denn nur wenn Sie Erfolg haben, sind wir am Ziel angelangt. Unser Fokus liegt auf kleineren und mittelständischen Firmen, die verständliche Lösungen suchen.'
-datePublished: '2016-05-04T14:52:54.135Z'
-dateModified: '2016-05-04T14:52:39.624Z'
+datePublished: '2016-05-04T14:55:44.845Z'
+dateModified: '2016-05-04T14:55:41.882Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-04-unser-ansatz.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-04-unser-ansatz.md
 url: unser-ansatz/index.html
 _type: Article
 
