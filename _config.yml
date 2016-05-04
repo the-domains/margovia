@@ -1,6 +1,6 @@
 name: Margovia
 favicon: null
-layout_spectrum: 0.33396
+layout_spectrum: 1
 typography_spectrum: 0.60904
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#937e00'
     - '#5aadfc'
   brandStrength: 0.9142126112710685
-  lightness: 0.27398903062567115
-  saturation: 0.23381170979700983
-  rhythmicContrast: 0.6773431664332747
+  lightness: 0.1875
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
