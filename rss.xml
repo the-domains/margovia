@@ -4,21 +4,21 @@
         <description><![CDATA[Margovia]]></description>
         <link>https://thegrid.ai/margovia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 14:55:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 14:55:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/margovia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Unser Ansatz]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/809a35d8-bb62-4ab8-983b-76570a71ad3d.jpg">]]></description>
+            <link>https://thegrid.ai/margovia/unser-ansatz/index.html</link>
+            <guid isPermaLink="false">6fdb492d-89ba-4082-888a-305828bb2ffa</guid>
+            <pubDate>Wed, 04 May 2016 14:55:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MARGOVIA]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4df974ca-5e0c-4eba-859c-3f8b0ea0765d.jpg" alt="Ihr Probleml&ouml;ser im Marketing &amp; E-Commerce" title="">]]></description>
             <link>https://thegrid.ai/margovia/margovia/index.html</link>
             <guid isPermaLink="false">1fdeffde-ffce-4384-8965-5824b89baf7d</guid>
             <pubDate>Wed, 04 May 2016 14:55:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Unser Ansatz]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/809a35d8-bb62-4ab8-983b-76570a71ad3d.jpg">]]></description>
-            <link>https://thegrid.ai/margovia/unser-ansatz/index.html</link>
-            <guid isPermaLink="false">6fdb492d-89ba-4082-888a-305828bb2ffa</guid>
-            <pubDate>Wed, 04 May 2016 14:52:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
