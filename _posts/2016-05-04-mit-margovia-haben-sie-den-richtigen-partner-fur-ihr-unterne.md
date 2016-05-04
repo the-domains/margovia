@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-04T14:28:51.231Z'
-dateModified: '2016-05-04T14:28:15.736Z'
-title: 'Mit MARGOVIA haben Sie den richtigen Partner für Ihr Unternehmen. Egal ob neue Marketingstrategie, On- oder Offlinekampagnen oder der Schritt zur Internetpräsenz, die Spezialisten für Marketing und E-Commerce bieten Ihnen passgenaue Lösungen und innovative Ansätze.MARGOVIA hat sich auf die Beratung und Betreuung kleinerer und mittelständischer Unternehmen spezialisert, denn wir kennen typische Probleme und Herausforderungen dieser Firmen aus eigener Praxiserfahrung und wissen was zu tun ist. Sie können uns jede Frage stellen, gemeinsam finden wir passende Lösungen.'
+description: 'Mit MARGOVIA haben Sie den richtigen Partner für Ihr Unternehmen. Egal ob neue Marketingstrategie, On- oder Offlinekampagnen oder der Schritt zur Internetpräsenz, die Spezialisten für Marketing und E-Commerce bieten Ihnen passgenaue Lösungen und innovative Ansätze.MARGOVIA hat sich auf die Beratung und Betreuung kleinerer und mittelständischer Unternehmen spezialisert, denn wir kennen typische Probleme und Herausforderungen dieser Firmen aus eigener Praxiserfahrung und wissen was zu tun ist. Sie können uns jede Frage stellen, gemeinsam finden wir passende Lösungen.'
+datePublished: '2016-05-04T14:36:49.142Z'
+dateModified: '2016-05-04T14:36:40.429Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -27,4 +27,12 @@ _type: Article
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/59eb874b-631a-44d8-9ee8-deff3cfa2dc0.jpg)
 
-## Mit MARGOVIA haben Sie den richtigen Partner für Ihr Unternehmen. Egal ob neue Marketingstrategie, On- oder Offlinekampagnen oder der Schritt zur Internetpräsenz, die Spezialisten für Marketing und E-Commerce bieten Ihnen passgenaue Lösungen und innovative Ansätze.MARGOVIA hat sich auf die Beratung und Betreuung kleinerer und mittelständischer Unternehmen spezialisert, denn wir kennen typische Probleme und Herausforderungen dieser Firmen aus eigener Praxiserfahrung und wissen was zu tun ist. Sie können uns jede Frage stellen, gemeinsam finden wir passende Lösungen.
+Mit MARGOVIA haben Sie den richtigen Partner für Ihr Unternehmen. Egal ob neue Marketingstrategie, On- oder Offlinekampagnen oder der Schritt zur Internetpräsenz, die Spezialisten für Marketing und E-Commerce bieten Ihnen passgenaue Lösungen und innovative Ansätze.MARGOVIA hat sich auf die Beratung und Betreuung kleinerer und mittelständischer Unternehmen spezialisert, denn wir kennen typische Probleme und Herausforderungen dieser Firmen aus eigener Praxiserfahrung und wissen was zu tun ist. Sie können uns jede Frage stellen, gemeinsam finden wir passende Lösungen.
+
+> Wie werden Sie mit uns erfolgreich?
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92bf3cbe-5ce7-47c5-b44e-6b01d9a8fdf4.jpg)
+
+## Planung
+
+Gemeinsam mit unseren Kunden erstellen wir einen genauen Fahrplan, welche Ziele erreicht werden sollen. Denn nur mit gemeinschaftlicher Planung können Erfolge für beide Seiten erreicht werden. Mit diversen Analysen und Untersuchungen stellen wir einen Status Quo fest und erarbeiten mit Ihnen zusammen ein genaues Konzept. Wichtig ist uns, dass wir, MARGOVIA, am Ende Ihr definiertes Ziel erreicht haben!
