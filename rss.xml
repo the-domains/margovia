@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Margovia]]></title>
         <description><![CDATA[Margovia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/margovia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 14:23:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 14:24:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/margovia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Mit MARGOVIA haben Sie den richtigen Partner für Ihr Unternehmen. Egal ob neue Marketingstrategie, On- oder Offlinekampagnen oder der Schritt zur Internetpräsenz, die Spezialisten für Marketing und E-Commerce bieten Ihnen passgenaue Lösungen und innovative Ansätze.MARGOVIA hat sich auf die Beratung und Betreuung kleinerer und mittelständischer Unternehmen spezialisert, denn wir kennen typische Probleme und Herausforderungen dieser Firmen aus eigener Praxiserfahrung und wissen was zu tun ist. Sie können uns jede Frage stellen, gemeinsam finden wir passende Lösungen.]]></title>
             <description><![CDATA[<article><h1>Mit MARGOVIA haben Sie den richtigen Partner für Ihr Unternehmen. Egal ob neue Marketingstrategie, On- oder Offlinekampagnen oder der Schritt zur Internetpräsenz, die Spezialisten für Marketing und E-Commerce bieten Ihnen passgenaue Lösungen und innovative Ansätze.MARGOVIA hat sich auf die Beratung und Betreuung kleinerer und mittelständischer Unternehmen spezialisert, denn wir kennen typische Probleme und Herausforderungen dieser Firmen aus eigener Praxiserfahrung und wissen was zu tun ist. Sie können uns jede Frage stellen, gemeinsam finden wir passende Lösungen.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/331457a0d4db0bd64746aef2c899ce0d6beb49d8.jpg"></article>]]></description>
-            <link>undefinedmit-margovia-haben-sie-den-richtigen-partner-fur-ihr-unterne/index.html</link>
+            <link>https://thegrid.ai/margovia/mit-margovia-haben-sie-den-richtigen-partner-fur-ihr-unterne/index.html</link>
             <guid isPermaLink="false">185d2089-fd2c-45ed-a085-2d5ef9c1abe0</guid>
-            <pubDate>Wed, 04 May 2016 14:23:09 GMT</pubDate>
+            <pubDate>Wed, 04 May 2016 14:24:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
