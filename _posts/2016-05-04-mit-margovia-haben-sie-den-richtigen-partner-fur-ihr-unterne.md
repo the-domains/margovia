@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-04T14:27:04.227Z'
-dateModified: '2016-05-04T14:24:30.150Z'
+datePublished: '2016-05-04T14:28:07.091Z'
+dateModified: '2016-05-04T14:28:05.436Z'
 title: 'Mit MARGOVIA haben Sie den richtigen Partner für Ihr Unternehmen. Egal ob neue Marketingstrategie, On- oder Offlinekampagnen oder der Schritt zur Internetpräsenz, die Spezialisten für Marketing und E-Commerce bieten Ihnen passgenaue Lösungen und innovative Ansätze.MARGOVIA hat sich auf die Beratung und Betreuung kleinerer und mittelständischer Unternehmen spezialisert, denn wir kennen typische Probleme und Herausforderungen dieser Firmen aus eigener Praxiserfahrung und wissen was zu tun ist. Sie können uns jede Frage stellen, gemeinsam finden wir passende Lösungen.'
 author:
   - name: ''
